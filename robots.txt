@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+
+Sitemap: https://i-ruh-n.github.io/Noor-s_Bangles-/sitemap.xml
