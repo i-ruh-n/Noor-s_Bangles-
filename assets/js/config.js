@@ -30,9 +30,9 @@ export const CONFIG = {
   ADMIN_SESSION_KEY: "noors_admin_session_v1",
 
   // Supabase Configuration — paste your real project URL & anon key here:
-  SUPABASE_URL: "https://xyzcompany.supabase.co",
-  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.dummy_anon_key",
+  SUPABASE_URL: "https://ftnrapbzfvuojinzlqcn.supabase.co",
+  SUPABASE_ANON_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImZ0bnJhcGJ6ZnZ1b2ppbnpscWNuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTA2MTAyOTUsImV4cCI6MjEwNjE4NjI5NX0.CXZcuhXIiZO89zj_wV3qeNxm4FTogAr44wceCT2z1c4",
 
   // When true, the shop works fully on mock data (no Supabase needed for testing)
-  ENABLE_MOCK_FALLBACK: true
+  ENABLE_MOCK_FALLBACK: false
 };
